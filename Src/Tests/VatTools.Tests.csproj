@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\VatValidate.Core\VatTools.csproj" />
+    <ProjectReference Include="..\VatTools\VatTools.csproj" />
   </ItemGroup>
 
 </Project>
